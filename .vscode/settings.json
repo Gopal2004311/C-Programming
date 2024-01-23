@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "BITWISE.C": "cpp",
+        "RIG&LEF.C": "cpp",
+        "EXE2(1).C": "cpp",
+        "EXE2(3).C": "cpp",
+        "EXE2(4).C": "cpp",
+        "EXE2(5).C": "cpp",
+        "EXE2(6).C": "cpp",
+        "EXE2(7).C": "cpp",
+        "PATTERN3.C": "cpp",
+        "PATTERN5.C": "cpp",
+        "PATTERN6.C": "cpp",
+        "EXE10(2).C": "cpp",
+        "sumOfDigt.C": "cpp",
+        "EXE10(4).C": "cpp",
+        "Perfect.C": "cpp",
+        "EXE8(9).C": "cpp"
+    }
+}

@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<conio.h>
+#define BITS sizeof(int)*8
+int main()
+{
+  int num ,msb;
+  clrscr();
+  printf("\n Enter any number.....");
+  scanf("%d ", &num);
+  msb=1<<(BITS-1);
+  if(num&msb)
+   printf("\n msb of %d is set (1)",num);
+  else
+   printf("\n msb of %d is unset (0)",num);
+   getch();
+   return 0;
+  }
+
